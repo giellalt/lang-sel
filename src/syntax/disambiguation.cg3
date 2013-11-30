@@ -169,6 +169,6 @@ SET NP-MEMBER = PRE-N | N | Pron ;
 
 SECTION
 
-REMOVE N IF Po ; # Dummy rule.
+REMOVE N IF (0 Po) ; # Dummy rule.
 
 
