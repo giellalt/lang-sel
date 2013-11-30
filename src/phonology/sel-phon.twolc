@@ -15,7 +15,7 @@ Cns =  б в г д ж з к л м н ӈ п р с т ф х ц ч ш
        Б В Г Д Ж З К Л М Н Ӈ П Р С Т Ф Х Ц Ч Ш ; 
 Rules
 
-"Dummy rule to be deleted
+"Dummy rule to be deleted"
  ц:0 <=> Vow ц %>: _ ;
 
 ! Dummy pair
