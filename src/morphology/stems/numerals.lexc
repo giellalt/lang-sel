@@ -1,0 +1,8 @@
+!! Numerals
+!! --------
+!! Numerals in Selkup denote numbers.
+
+LEXICON Numerals
+numeral    Cases   ;
+
+! vim: set ft=xfst-lexc:
