@@ -70,6 +70,8 @@ AC_SUBST([GTLANG], [sel])
 # should be the ISO 639-1 two-letter code if possible, otherwise usually same
 # as above
 AC_SUBST([GTLANG2], [sel])
+# GTLANGUAGE is the full language name as given by the ISO 639-3 file
+AC_SUBST([GTLANGUAGE], ["Selkup"])
 
 # We need special treatment of Java paths in Cygwin:
 AC_CANONICAL_HOST
