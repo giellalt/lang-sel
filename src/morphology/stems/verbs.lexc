@@ -3,6 +3,9 @@
 !! Verbs in Selkup denote actions.
 
 LEXICON Verbs
-verb    Persons   ;
+анталяли v1 "to fight"  ;
+вәрк v1 "to stay?" ;
+анталты v1 "to compete?" ;
+апсты v1 "to feed" ;
 
 ! vim: set ft=xfst-lexc:

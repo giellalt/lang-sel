@@ -1,8 +1,25 @@
-!! Nouns
+! Nouns
 !  -----
 !! Nouns in Selkup denote things.
 
 LEXICON Nouns
-noun    Cases   ;
+апа     Cases "father" ;
+пи      Cases "night" ;
+ирä     Cases "month" ;
+тӱлы    Cases "fire" ;
+ӄум     Cases "human" ;
+кыпа    Cases "child" ;
+нäтä    Cases "girl" ;
+әмы     Cases "mother" ;
+өтä     Cases "reindeer" ;
+
+! Adposition
+
+ен      Cases "in-on" ;
+
+! Placenames
+Толька  Cases "Tolka" ;
 
 ! vim: set ft=xfst-lexc:
+
+

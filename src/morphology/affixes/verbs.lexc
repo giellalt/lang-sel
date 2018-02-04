@@ -2,15 +2,29 @@
 !  ---------------
 !! The Selkup verbs inflect in persons.
 
+LEXICON v1
++V+Ind+Prs: Persons ;
++V+Ind+PstCon:мпи Persons ;
++V+Ind+Fut:энн Persons ;
++V+Ind+SamoyedicThing:ӈ Persons;
++V+Ind+Pst:с Persons;
++V: infin ;
+
 LEXICON Persons
-+V+1sg:en   #   ;
-+V+2sg:et   #   ;
-+V+3sg:e    #   ;
-+V+1pl:ien  #   ;
-+V+2pl:iet  #   ;
-+V+3pl:iet  #   ;
-+V+inf:0    #   ;
-#:0   Nouns   ;
++Sg1:ак      # ;
++SgObj1:ам   # ;
++Sg2:анты    # ;
++Sg3:а       # ;
++Du1:ми      # ;
++Du2:ли      # ;
++Du3:ӄі      # ;
++Pl1:ымыт    # ;
++Pl2:ылыт    # ;
++Pl3:тыт     # ;
++Pl3:өтын    # ;
+
+LEXICON infin
++Inf: # ;
 
 ! vim: set ft=xfst-lexc:
 

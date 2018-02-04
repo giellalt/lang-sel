@@ -3,6 +3,6 @@
 !! Numerals in Selkup denote numbers.
 
 LEXICON Numerals
-numeral    Cases   ;
+уккыр   Cases "one"  ;
 
 ! vim: set ft=xfst-lexc:

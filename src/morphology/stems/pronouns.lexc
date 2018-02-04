@@ -3,6 +3,14 @@
 !! Pronouns in Selkup denote references to things.
 
 LEXICON Pronouns
-pronoun    Cases   ;
+ман    Cases "I"       ;
+мат    Cases "I"       ;
+тан    Cases           ;
+тат    Cases "you"     ;
+шім    Cases           ;
+массä  Cases           ;
+тəп    Cases "he"      ;
+онäк   Cases "oneself" ;
+тап    Cases "this"    ;
 
 ! vim: set ft=xfst-lexc:
