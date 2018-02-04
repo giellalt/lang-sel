@@ -12,16 +12,17 @@ LEXICON v1
 
 LEXICON Persons
 +Sg1:ак      # ;
-+SgObj1:ам   # ;
 +Sg2:анты    # ;
 +Sg3:а       # ;
-+Du1:ми      # ;
-+Du2:ли      # ;
++Du1:мӣ      # ;
++Du2:лӣ      # ;
 +Du3:ӄі      # ;
 +Pl1:ымыт    # ;
 +Pl2:ылыт    # ;
 +Pl3:тыт     # ;
 +Pl3:өтын    # ;
+
++SgObj1:ам   # ; 
 
 LEXICON infin
 +Inf: # ;
