@@ -147,12 +147,14 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 LEXICON Root !!= * __@CODE@__
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Nouns       ;
-0   Verbs       ;
-0   Adjectives  ;
-0   Pronouns    ;
-0   Numerals    ;
-0   Prefixes    ;
+   Nouns       ;
+   Verbs       ;
+   Adjectives  ;
+   Pronouns    ;
+   Numerals    ;
+!   Prefixes   ;
+   Adverbs     ;
+   Punctuation ;
 
 ! vim: set ft=xfst-lexc:
 
