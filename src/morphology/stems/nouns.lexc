@@ -3,19 +3,21 @@
 !! Nouns in Selkup denote things.
 
 LEXICON Nouns
-апа     Cases "father" ;
-пи      Cases "night" ;
-ирä     Cases "month" ;
-тӱлы    Cases "fire" ;
-ӄум     Cases "human" ;
-кыпа    Cases "child" ;
-нäтä    Cases "girl" ;
-әмы     Cases "mother" ;
+апа     Cases "father"   ;
+пи      Cases "night"    ;
+ирä     Cases "month"    ;
+тӱлы    Cases "fire"     ;
+ӄум     Cases "human"    ;
+кыпа    Cases "child"    ;
+нäтä    Cases "girl"     ;
+әмы     Cases "mother"   ;
 өтä     Cases "reindeer" ;
+тӧ      Cases "birch"    ;
 
-! Adposition
+! Adpositional stems
 
 ен      Cases "in-on" ;
+ны̄      Cases "after, then" ;
 
 ! Placenames
 Толька  Cases "Tolka" ;

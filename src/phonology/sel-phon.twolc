@@ -2,17 +2,21 @@
 !! !!!The Selkup morphophonological/twolc rules file !
 ! ================================================== !
 
+! Note: I don't have currently any idea about what all should be in Selkup alphabet
+! and how it all goes together. I have just added what I see in texts I use as a
+! starting point.
+
 Alphabet
-а б в г д е ə ё ж з и й к л м н ӈ о п р с т у ф х ц ч ш щ ъ ы ь э ю я ӱ
-А Б В Г Д Е Ə Ё Ж З И Й К Л М Н Ӈ О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я Ӱ
+а ӓ б в г д е ə ё ж з и ӣ й і і̄ к ӄ л м н ӈ о ӧ ө ө̄ п р с т у ф х ц ч ш щ ъ ы ь ы̄ э ю я ӱ
+А Ӓ Б В Г Д Е Ə Ё Ж З И Ӣ Й І І̄ К Ӄ Л М Н Ӈ О Ӧ Ө Ө̄ П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Ы̄ Э Ю Я Ӱ
 
  %>:0 ;
 
 Sets
 
-Vow =  а е и о у ё ю э ы я ӱ ə А Е И О У Ё Ю Э Ы Я Ӱ Ə; 
-Cns =  б в г д ж з к л м н ӈ п р с т ф х ц ч ш 
-       Б В Г Д Ж З К Л М Н Ӈ П Р С Т Ф Х Ц Ч Ш ; 
+Vow =  а е и ӣ о ӧ ə ө̄ у ё ю э ы ы̄ я ӱ А Е И Ӣ О Ӧ Ə Ө̄ У Ё Ю Э Ы Ы̄ Я Ӱ; 
+Cns =  б в г д ж з к ӄ л м н ӈ п р с т ф х ц ч ш 
+       Б В Г Д Ж З К Ӄ Л М Н Ӈ П Р С Т Ф Х Ц Ч Ш ; 
 Rules
 
 "Dummy rule to be deleted"
