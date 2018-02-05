@@ -1,13 +1,8 @@
 # ========================== #
-# Faroese dependency grammar #
+# Selkup dependency grammar #
 # ========================== #
 
-# This file is deprecated.
-
-# For Faroese dep analysis, use
-
-# $GTHOME/gt/smi/src/smi-dep.rle
-
+# This file is a dummy (copied from another language).
 
 
 # ========== #
