@@ -6,6 +6,7 @@ LEXICON v1
 +V+Ind+Prs: Persons ;
 +V+Ind+PstCon:мпи Persons ;
 +V+Ind+Fut:энн Persons ;
++V+Ind+Fut:нт Persons ;
 +V+Ind+SamoyedicThing:ӈ Persons;
 +V+Ind+SamoyedicThing2:ө̄ Persons;
 +V+Ind+Pst:с Persons;

@@ -4,11 +4,12 @@
 
 LEXICON Cases
 +N+Sg+Nom:0       # ;
-+N+Sg+Gen:н       # ;
++N+Sg+Gen:н       # ; !! This н/т and м/п variation has to be figured out
 +N+Sg+Gen:т       # ;
-+N+Sg+Loc:ӄын     # ;
 +N+Sg+Acc:м       # ;
-+N+Sg+Ins:сä      # ;
++N+Sg+Acc:п       # ;
++N+Sg+Loc:ӄын     # ;
++N+Sg+Ins:сä      # ;
 +N+Sg+Car:кѳлыӈ   # ;
 +N+Sg+Illat:ныӈ   # ;
 +N+Sg+Ines:ӄын    # ;
