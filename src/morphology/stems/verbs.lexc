@@ -8,7 +8,7 @@ LEXICON Verbs
 анталты    v1 "to compete?" ;
 апсты      v1 "to feed"     ;
 ӄəнп       v1 "to go"       ;
-ил         v1 "to live"     ;
+илы        v1 "to live"     ;
 ку         v1 "to die"      ;
 
 ! vim: set ft=xfst-lexc:
