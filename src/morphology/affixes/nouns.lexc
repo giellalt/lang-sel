@@ -17,5 +17,7 @@ LEXICON Cases
 +N+Sg+Voc:ə       # ;
 #:0   Nouns         ;
 
++N+SomeDualThing:ӄі     # ;  
+
 ! vim: set ft=xfst-lexc:
 
