@@ -16,6 +16,8 @@ LEXICON Cases
 +N+Sg+Abl:ӄыны    # ;
 +N+Sg+Pro:мын     # ;
 +N+Sg+Voc:ə       # ;
++N+Pl+Nom:ыт      # ;
++N+Pl+Acc:ытып    # ;
 #:0   Nouns         ;
 
 +N+SomeDualThing:ӄі     # ;  

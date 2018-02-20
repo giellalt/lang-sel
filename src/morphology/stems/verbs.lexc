@@ -10,5 +10,6 @@ LEXICON Verbs
 ӄəнп       v1 "to go"       ;
 илы        v1 "to live"     ;
 ку         v1 "to die"      ;
+ылалты     v1 "to win"      ;
 
 ! vim: set ft=xfst-lexc:
