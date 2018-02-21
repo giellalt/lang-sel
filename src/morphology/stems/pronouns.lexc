@@ -4,14 +4,14 @@
 
 LEXICON Pronouns
 ман    Cases "I"       ;
+массä  Cases           ;
 мат    Cases "I"       ;
+ме     Cases "we"      ;
+онäк   Cases "oneself" ;
+тəп    Cases "he"      ;
 тан    Cases           ;
+тап    Cases "this"    ;
 тат    Cases "you"     ;
 шім    Cases           ;
-массä  Cases           ;
-ме     Cases "we"      ;
-тəп    Cases "he"      ;
-онäк   Cases "oneself" ;
-тап    Cases "this"    ;
 
 ! vim: set ft=xfst-lexc:
