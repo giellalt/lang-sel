@@ -3,13 +3,13 @@
 !! Verbs in Selkup denote actions.
 
 LEXICON Verbs
-анталяли   v1 "to fight"    ;
-вәрк       v1 "to stay?"    ;
 анталты    v1 "to compete?" ;
+анталяли   v1 "to fight"    ;
 апсты      v1 "to feed"     ;
-ӄəнп       v1 "to go"       ;
+вәрк       v1 "to stay?"    ;
 илы        v1 "to live"     ;
 ку         v1 "to die"      ;
+ӄəнп       v1 "to go"       ;
 ылалты     v1 "to win"      ;
 
 ! vim: set ft=xfst-lexc:
