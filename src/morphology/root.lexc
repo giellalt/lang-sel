@@ -67,6 +67,7 @@ Multichar_Symbols  !!≈ !!!Definitions for @CODE@
 
 ! Abbreviated words are classified with:
  +ABBR +ACR  !!= * @CODE@
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
  
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT !!= * @CODE@
