@@ -1,0 +1,9 @@
+name = "Selkup"
+version = "@SPELLERVERSION@"
+
+[macos]
+system_pkg_id = "no.divvun.MacDivvun.sel"
+
+[windows]
+system_product_code = "BFFD8709-CD82-4084-A202-E19619582217"
+msoffice_product_code = "E82D3310-C767-44EF-802B-90842D315F57"
