@@ -21,7 +21,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/seldoc/index.html>
+-   <https://giellalt.uit.no/lang/sel/SelkupDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
