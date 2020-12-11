@@ -26,5 +26,6 @@ do
  do
    echo "${lemma}${form}" | $LOOKUP $GTHOME/startup-langs/sel/src/generator-gt-norm.xfst
  done
+ rm -f $L_FILE
 done
 
