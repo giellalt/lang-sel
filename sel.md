@@ -1,3 +1,44 @@
+Noun inflection
+The Selkup nouns inflect in cases.
+
+This н/т and м/п variation has to be figured out
+
+
+
+Proper noun inflection
+The Selkup proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
+
+
+
+
+# Symbol affixes
+
+
+
+
+
+Adjective inflection
+The Selkup adjectives compare.
+
+
+
+Verb inflection
+The Selkup verbs inflect in persons.
+
+
+
+
+
+
+# The Selkup morphophonological/twolc rules file !
+
+
+
+
+
+
+
 
 # Selkup morphological analyser                      
 
@@ -136,6 +177,89 @@ The word forms in Selkup language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
 
+
+Nouns in Selkup denote things.
+
+
+
+
+
+
+
+Prefixes
+Prefixes in the Selkup language are bound to beginning of other words.
+
+
+
+Pronouns
+Pronouns in Selkup denote references to things.
+
+
+Adjectives
+Adjectives in Selkup describe qualities or other characteristics of things.
+
+
+Verbs
+Verbs in Selkup denote actions.
+
+
+Numerals
+Numerals in Selkup denote numbers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% komma% :,      Root ;
+% tjuohkkis% :%. Root ;
+% kolon% :%:     Root ;
+% sárggis% :%-   Root ; 
+% násti% :%*     Root ; 
 
 
 
