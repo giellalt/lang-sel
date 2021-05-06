@@ -1,3 +1,47 @@
+Nouns in Selkup denote things.
+
+
+
+
+
+
+
+Numerals
+Numerals in Selkup denote numbers.
+
+
+Verbs
+Verbs in Selkup denote actions.
+
+
+Prefixes
+Prefixes in the Selkup language are bound to beginning of other words.
+
+
+
+Adjectives
+Adjectives in Selkup describe qualities or other characteristics of things.
+
+
+Pronouns
+Pronouns in Selkup denote references to things.
+
+
+# The Selkup morphophonological/twolc rules file !
+
+
+
+
+
+
+
+
+# Symbol affixes
+
+
+
+
+
 Noun inflection
 The Selkup nouns inflect in cases.
 
@@ -11,18 +55,6 @@ nouns, but with a colon (':') as separator.
 
 
 
-
-# Symbol affixes
-
-
-
-
-
-Adjective inflection
-The Selkup adjectives compare.
-
-
-
 Verb inflection
 The Selkup verbs inflect in persons.
 
@@ -31,11 +63,8 @@ The Selkup verbs inflect in persons.
 
 
 
-# The Selkup morphophonological/twolc rules file !
-
-
-
-
+Adjective inflection
+The Selkup adjectives compare.
 
 
 
@@ -178,33 +207,20 @@ word classes, or optionally from prefixes:
 
 
 
-Nouns in Selkup denote things.
 
 
 
+We describe here how abbreviations are in Selkup are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
-
-
-Prefixes
-Prefixes in the Selkup language are bound to beginning of other words.
-
-
-
-Pronouns
-Pronouns in Selkup denote references to things.
-
-
-Adjectives
-Adjectives in Selkup describe qualities or other characteristics of things.
-
-
-Verbs
-Verbs in Selkup denote actions.
-
-
-Numerals
-Numerals in Selkup denote numbers.
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
 
 
@@ -260,20 +276,4 @@ Numerals in Selkup denote numbers.
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
-
-
-
-
-We describe here how abbreviations are in Selkup are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
 
