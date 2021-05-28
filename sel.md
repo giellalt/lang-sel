@@ -675,47 +675,22 @@ These were the set types.
 
 
 
-Nouns in Selkup denote things.
+Verb inflection
+The Selkup verbs inflect in persons.
 
 
 
 
 
 
-
-Numerals
-Numerals in Selkup denote numbers.
-
-
-Verbs
-Verbs in Selkup denote actions.
-
-
-Prefixes
-Prefixes in the Selkup language are bound to beginning of other words.
+Proper noun inflection
+The Selkup proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
 
 
-Adjectives
-Adjectives in Selkup describe qualities or other characteristics of things.
-
-
-Pronouns
-Pronouns in Selkup denote references to things.
-
-
-# The Selkup morphophonological/twolc rules file !
-
-
-
-
-
-
-
-
-# Symbol affixes
-
-
+Adjective inflection
+The Selkup adjectives compare.
 
 
 
@@ -726,22 +701,47 @@ This н/т and м/п variation has to be figured out
 
 
 
-Proper noun inflection
-The Selkup proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
 
-
-
-Verb inflection
-The Selkup verbs inflect in persons.
+# Symbol affixes
 
 
 
 
 
+# The Selkup morphophonological/twolc rules file !
 
-Adjective inflection
-The Selkup adjectives compare.
+
+
+
+
+
+
+Verbs
+Verbs in Selkup denote actions.
+
+
+Pronouns
+Pronouns in Selkup denote references to things.
+
+
+Numerals
+Numerals in Selkup denote numbers.
+
+
+Adjectives
+Adjectives in Selkup describe qualities or other characteristics of things.
+
+
+Prefixes
+Prefixes in the Selkup language are bound to beginning of other words.
+
+
+
+Nouns in Selkup denote things.
+
+
+
+
 
 
 
@@ -887,22 +887,6 @@ word classes, or optionally from prefixes:
 
 
 
-We describe here how abbreviations are in Selkup are read out, e.g.
-for text-to-speech systems.
-
-For example:
-
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
-
-
-
-
-
 
 
 
@@ -953,6 +937,22 @@ For example:
 % kolon% :%:     Root ;
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
+
+
+
+
+We describe here how abbreviations are in Selkup are read out, e.g.
+for text-to-speech systems.
+
+For example:
+
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
+
 
 
       [ L A N G U A G E ]  G R A M M A R   C H E C K E R
