@@ -1,10 +1,12 @@
 ! ================================================== !
-!! # The Selkup morphophonological/twolc rules file !
+!! # The Selkup morphophonological/twolc rules file 
 ! ================================================== !
 
-! Note: I don't have currently any idea about what all should be in Selkup alphabet
-! and how it all goes together. I have just added what I see in texts I use as a
-! starting point.
+!! This file documents the [phonology.twolc file](http://github.com/giellalt/lang-sel/blob/main/src/fst/phonology.twolc) 
+
+!! Note: I don't have currently any idea about what all should be in Selkup alphabet
+!! and how it all goes together. I have just added what I see in texts I use as a
+!! starting point.
 
 Alphabet
 а ā ӓ ӓ̄ б в г д е ə ё ж з и ӣ й і і̄ к ӄ л м н ӈ о ӧ ө ө̄ п р с т у ф х ц ч ш щ ъ ы ь ы̄ э ю я ӱ
@@ -20,5 +22,6 @@ Cns =  б в г д ж з к ӄ л м н ӈ п р с т ф х ц ч ш
 Rules
  
 "ӈ to ӄ before ӄ, needs to be refined"
+!! Rule: **@RULENAME@**
  ӈ:ӄ <= _ ӄ: ;
 
