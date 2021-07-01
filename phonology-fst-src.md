@@ -12,3 +12,5 @@ starting point.
 
 Rule: **ӈ to ӄ before ӄ, needs to be refined**
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/phonology.twolc)</small>

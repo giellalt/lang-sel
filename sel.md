@@ -1,75 +1,5 @@
 
 
-# Selkup disambiguator #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -269,7 +199,7 @@
 * Sets for verbs
 
 
-    - V is all readings with a V tag in them, REAL-V should
+- V is all readings with a V tag in them, REAL-V should
 be the ones without an N tag following the V.  
 The REAL-V set thus awaits a fix to the preprocess V ... N bug.
 
@@ -675,75 +605,10 @@ These were the set types.
 
 
 
-Verb inflection
-The Selkup verbs inflect in persons.
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-sel/blob/main/../src/cg3/functions.cg3)</small>
 
-
-
-
-
-
-Proper noun inflection
-The Selkup proper nouns inflect in the same cases as regular
-nouns, but with a colon (':') as separator.
-
-
-
-Adjective inflection
-The Selkup adjectives compare.
-
-
-
-Noun inflection
-The Selkup nouns inflect in cases.
-
-This н/т and м/п variation has to be figured out
-
-
-
-
-# Symbol affixes
-
-
-
-
-
-# The Selkup morphophonological/twolc rules file 
-
-This file documents the [phonology.twolc file](http://github.com/giellalt/lang-sel/blob/main/src/fst/phonology.twolc) 
-
-Note: I don't have currently any idea about what all should be in Selkup alphabet
-and how it all goes together. I have just added what I see in texts I use as a
-starting point.
-
-
-
-
-
-Rule: **ӈ to ӄ before ӄ, needs to be refined**
-
-Verbs
-Verbs in Selkup denote actions.
-
-
-Pronouns
-Pronouns in Selkup denote references to things.
-
-
-Numerals
-Numerals in Selkup denote numbers.
-
-
-Adjectives
-Adjectives in Selkup describe qualities or other characteristics of things.
-
-
-Prefixes
-Prefixes in the Selkup language are bound to beginning of other words.
-
-
-
-Nouns in Selkup denote things.
+# Selkup disambiguator #
 
 
 
@@ -752,6 +617,67 @@ Nouns in Selkup denote things.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/cg3/disambiguator.cg3](http://github.com/giellalt/lang-sel/blob/main/../src/cg3/disambiguator.cg3)</small>
 # Selkup morphological analyser                      
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Selkup.
@@ -890,7 +816,96 @@ word classes, or optionally from prefixes:
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/root.lexc)</small>Proper noun inflection
+The Selkup proper nouns inflect in the same cases as regular
+nouns, but with a colon (':') as separator.
 
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/affixes/propernouns.lexc)</small>Noun inflection
+The Selkup nouns inflect in cases.
+
+This н/т and м/п variation has to be figured out
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/affixes/nouns.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/affixes/symbols.lexc)</small>Adjective inflection
+The Selkup adjectives compare.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/affixes/adjectives.lexc)</small>Verb inflection
+The Selkup verbs inflect in persons.
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/affixes/verbs.lexc)</small>Pronouns
+Pronouns in Selkup denote references to things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/stems/pronouns.lexc)</small>Prefixes
+Prefixes in the Selkup language are bound to beginning of other words.
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/prefixes.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/stems/prefixes.lexc)</small>Nouns in Selkup denote things.
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/stems/nouns.lexc)</small>Adjectives
+Adjectives in Selkup describe qualities or other characteristics of things.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/stems/adjectives.lexc)</small>Verbs
+Verbs in Selkup denote actions.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/stems/verbs.lexc)</small>Numerals
+Numerals in Selkup denote numbers.
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/stems/numerals.lexc)</small># The Selkup morphophonological/twolc rules file 
+
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-sel/blob/main/src/fst/phonology.twolc) 
+
+Note: I don't have currently any idea about what all should be in Selkup alphabet
+and how it all goes together. I have just added what I see in texts I use as a
+starting point.
+
+
+
+
+
+Rule: **ӈ to ӄ before ӄ, needs to be refined**
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/phonology.twolc)</small>
 
 
 
@@ -944,7 +959,8 @@ word classes, or optionally from prefixes:
 % sárggis% :%-   Root ; 
 % násti% :%*     Root ; 
 
-
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-numbers-digit2text.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/transcriptions/transcriptor-numbers-digit2text.lexc)</small>
 
 
 We describe here how abbreviations are in Selkup are read out, e.g.
@@ -960,8 +976,9 @@ For example:
  * esim.:esimerkiksi # ; 
 
 
-
-      [ L A N G U A G E ]  G R A M M A R   C H E C K E R
+* * *
+<small>This (part of) documentation was generated from [../src/transcriptions/transcriptor-abbrevs2text.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+[ L A N G U A G E ]  G R A M M A R   C H E C K E R
 
 
 
@@ -1371,3 +1388,5 @@ expression **WORD - premodifiers**.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-sel/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>
