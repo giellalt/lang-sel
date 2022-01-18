@@ -5,7 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/issues)
 [![Build status](https://github.com/giellalt/lang-sel/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-sel/actions)
 
-This page documents the work on the [Selkup language model](https://github.com/github/lang-sel). 
+This page documents the work on the [Selkup language model](https://github.com/github/lang-sel). It contains appr. 100 stems and an experimental morphological component.
+
 
 # Project documentation
 
