@@ -3,7 +3,6 @@
 
 INTRODUCTION TO MORPHOLOGICAL ANALYSER OF Selkup.
 
-
 # Definitions for Multichar_Symbols
 
 Letters 
@@ -67,7 +66,6 @@ Non-dictionary words can be recognised with:
 Question and Focus particles:
 *  +Qst +Foc 
 
-
 Semantics are classified with
 *  +Mal +Fem +Sur  
 *  +Plc 			 
@@ -87,12 +85,10 @@ Semantics are classified with
 *  +Veh			 
 *  +Clth			 
 
-
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
 *  +V→N +V→V +V→A  
 *  +Der/xxx 
-
 
 Morphophonology
 
@@ -135,7 +131,9 @@ given the proper use of these flags.
 The word forms in Selkup language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-sel/blob/main/src/fst/root.lexc)</small>
+
+---
+

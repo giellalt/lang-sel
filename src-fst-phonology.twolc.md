@@ -6,11 +6,11 @@ Note: I don't have currently any idea about what all should be in Selkup alphabe
 and how it all goes together. I have just added what I see in texts I use as a
 starting point.
 
-
-
-
-
 Rule: **ӈ to ӄ before ӄ, needs to be refined**
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-sel/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-sel/blob/main/src/fst/phonology.twolc)</small>
+
+---
+
