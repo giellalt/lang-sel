@@ -2,7 +2,7 @@ The Selkup morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/issues)
-[![Build Status](https://github.com/giellalt/lang-sel/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-sel/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-sel/main/badge.svg)](https://github.com/giellalt/lang-sel/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/blob/main/LICENSE)
 
 This repository contains finite state source files for the Selkup language,
