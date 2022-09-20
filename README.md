@@ -4,6 +4,8 @@ The Selkup morphology and tools
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/issues)
 [![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-sel/main/badge.svg)](https://github.com/giellalt/lang-sel/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/blob/main/LICENSE)
+[![Desktop speller download](https://img.shields.io/badge/download%40latest-desktop--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-sel?platform=desktop&channel=nightly)
+[![Mobile speller download](https://img.shields.io/badge/download%40latest-mobile--bhfst-brightgreen)](https://pahkat.uit.no/main/download/speller-sel?platform=mbile&channel=nightly)
 
 This repository contains finite state source files for the Selkup language,
 for building morphological analysers, proofing tools
