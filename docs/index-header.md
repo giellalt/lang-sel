@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-sel)](https://github.com/giellalt/lang-sel/issues)
-[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-sel/main/badge.svg)](https://github.com/giellalt/lang-sel/actions)
+[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-sel/main/badge.svg)](https://github.com/giellalt/lang-sel/actions)
 
 This page documents the work on the [Selkup language model](https://github.com/github/lang-sel). It contains appr. 100 stems and an experimental morphological component.
 
