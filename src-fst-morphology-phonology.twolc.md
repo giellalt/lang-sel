@@ -11,6 +11,3 @@ Rule: **ӈ to ӄ before ӄ, needs to be refined**
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-sel/blob/main/src/fst/morphology/phonology.twolc)</small>
-
----
-
