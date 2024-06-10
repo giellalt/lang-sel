@@ -2,14 +2,14 @@
 ## Copyright: Sámediggi/Divvun/UiT
 ## Licence: GPL v3+
 
-######## Test targets: ###########
+######## Local test targets: ###########
 
 # List here (space separated) all test scripts that should be run
 # _unconditionally_:
 TESTS=
 
-# Yaml tests are run from shell scripts - specify them here:
-YAML_TEST_RUNNERS=run-initcaps-genyaml-testcases.sh
+# Add local yaml tests here
+YAML_TEST_RUNNERS=
 # Specify other shell scripts here to make sure they are included in the distro
 # even though spellers are disabled:
 OTHER_TEST_RUNNERS=
@@ -24,16 +24,5 @@ endif # CAN_YAML_TEST
 # be fixed *later*, but is not critical at the moment:
 XFAIL_TESTS=run-initcaps-genyaml-testcases.sh
 
-# Make sure all required files are included in the distribution:
-YAML_FILES=$(wildcard *.yaml)
-YAML_DIRS=
-
-EXTRA_DIST=$(OTHER_TEST_RUNNERS) \
-           $(YAML_TEST_RUNNERS) \
-           $(YAML_FILES) \
-           $(YAML_DIRS)
-
-####### Other targets: ###########
-clean-local:
-	-rm -f *.txt
+include $(top_srcdir)/../giella-core/am-shared/src-fst-orthography-test-include.am
 include $(top_srcdir)/../giella-core/am-shared/devtest-include.am
