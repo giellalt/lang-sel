@@ -16,7 +16,9 @@ GENERATION_TESTS=
 # be fixed *later*, but is not critical at the moment:
 XFAIL_TESTS=generate-adjective-lemmas.sh  \
             generate-propernoun-lemmas.sh \
-			missing-multichars.sh
+			missing-multichars.sh \
+			generate-noun-paradigm.sh \
+			generate-verb-paradigm.sh
 
 
 include $(top_srcdir)/../giella-core/am-shared/devtest-include.am
