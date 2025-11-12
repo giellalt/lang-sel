@@ -1,6 +1,3 @@
-spellername = "Selkup"
-spellerversion = "0.1.1"
-
 # Name of the speller package in various languages.
 # The default is English + autonym:
 [speller.name]
@@ -22,3 +19,15 @@ legacy_product_codes = [
     { value = "BFFD8709-CD82-4084-A202-E19619582217", kind = "nsis" },
     { value = "E82D3310-C767-44EF-802B-90842D315F57", kind = "nsis" }
 ]
+
+[package.speller]
+name = "Selkup"
+version = "0.1.1"
+
+[package.grammar]
+name = "Selkup"
+version = "0.1.0"
+
+[package.tts-text-proc]
+name = "Selkup"
+version = "0.1.0"
